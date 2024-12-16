@@ -1,0 +1,12 @@
+{
+    "num_train_epochs": 4,
+    "learning_rate": 0.0006558433129888869,
+    "weight_decay": 0.0716917514218512,
+    "lr_scheduler_type": "cosine",
+    "warmup_steps": 1339,
+    "seed": 78,
+    "per_device_train_batch_size": 8,
+    "sensitivity": 0.7191011235955056,
+    "specificity": 0.765625,
+    "roc_auc": 0.8063553370786516
+}
